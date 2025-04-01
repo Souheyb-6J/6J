@@ -1,0 +1,2 @@
+#salut
+print("smt4")
