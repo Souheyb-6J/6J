@@ -1,3 +1,0 @@
-#zakaria
-#tarik
-#bgs
